@@ -1,0 +1,5 @@
+# 忽略 .env 文件
+.env 
+#作用是防止你把 API Key accidentally 上传到 GitHub。
+chroma.db/
+__pycache__/
